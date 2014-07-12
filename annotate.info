@@ -1,5 +1,5 @@
 name = Annotate
-description = "Allows users to annotate nodes."
+description = " Randomly reassigns replies to different discussion threads.."
 package = Pro Drupal Development
 core = 7.x
 files[] = annotate.module
